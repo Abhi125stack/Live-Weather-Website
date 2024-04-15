@@ -18,9 +18,9 @@ This project is a live weather website that provides real-time weather updates b
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `main.html` file in your preferred web browser.
 3. Enter the name of the city for which you want to view the weather.
-4. Click the "Get Weather" button to fetch the live weather data.
+4. Click the search icon button to fetch the live weather data.
 5. Enjoy real-time weather updates!
 
 ## Credits
