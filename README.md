@@ -34,3 +34,11 @@ I would like to express my gratitude to the developers behind OpenWeatherMap for
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![image](https://github.com/Abhi125stack/Live-Weather-Website/assets/142906871/6adaa57a-c067-42de-94c1-eb4823ef8fec)
+![image](https://github.com/Abhi125stack/Live-Weather-Website/assets/142906871/f7934c32-5f13-4e50-95be-ee051c63fd1a)
+![image](https://github.com/Abhi125stack/Live-Weather-Website/assets/142906871/71443fd7-67c7-40f3-9549-58fd42594d8b)
+![image](https://github.com/Abhi125stack/Live-Weather-Website/assets/142906871/05a14817-46c0-4e9d-95dd-7b6283d65f82)
+
+
+
